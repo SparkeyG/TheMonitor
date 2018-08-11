@@ -4,3 +4,4 @@
 
 appschema 2018-08-11T14:29:30Z Shawn Carroll <Shawn.C.Carroll@gmail.com> # Add schema for all Rebekah objs
 chronicles [appschema] 2018-08-11T15:01:44Z Shawn Carroll <Shawn.C.Carroll@gmail.com> # Creates table to track our chronicles
+insert_chronicle [chronicles appschema] 2018-08-11T15:09:29Z Shawn Carroll <Shawn.C.Carroll@gmail.com> # Creates a function to insert a chronicle
